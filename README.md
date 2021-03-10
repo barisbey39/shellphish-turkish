@@ -2,7 +2,7 @@
 
 
 Bu araç @AbirHasan2005 tarafından modifiye edilmiştir.
-This tool has been modified by @abirhasan2005.
+This tool has been modified by @AbirHasan2005.
 
 @barisbey39 tarafından türkçeleştirilmiştir.
 Patched in Turkish by @barisbey39
