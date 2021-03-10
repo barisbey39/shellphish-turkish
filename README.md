@@ -1,7 +1,7 @@
 # ShellPhish Turkish v2.5-MOD
 
 
-Bu araç @abirhasan2005 tarafından modifiye edilmiştir.
+Bu araç @AbirHasan2005 tarafından modifiye edilmiştir.
 This tool has been modified by @abirhasan2005.
 
 @barisbey39 tarafından türkçeleştirilmiştir.
@@ -18,6 +18,10 @@ ShellPhish is not responsible for any misuse or damage caused.
   
 ***Legal disclaimer:
 Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
+
+## Patched in Turkish by @barisbey39
+
+## Modified by @AbirHasan2005
 
 **Credits:**
 
