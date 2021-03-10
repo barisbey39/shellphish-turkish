@@ -1,7 +1,7 @@
 # shellphish-turkish
 
 Bu araç @abirhasan2005 tarafından modifiye edilmiştir.
-This tool has been modified by @ abirhasan2005.
+This tool has been modified by @abirhasan2005.
 
 @barisbey39 tarafından türkçeleştirilmiştir.
 Patched in Turkish by @barisbey39
